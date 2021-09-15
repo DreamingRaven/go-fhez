@@ -1,4 +1,7 @@
 module gitlab.com/deepcypher/go-fhez
-// host/username/project/(dir)/package
 
 go 1.16
+
+require (
+  github.com/ldsec/lattigo/v2 v2.2.0
+)
